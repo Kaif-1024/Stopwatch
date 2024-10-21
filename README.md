@@ -25,9 +25,3 @@ This project offers a user-friendly interface with functionalities to start, pau
 ![Screenshot 2024-10-22 020842](https://github.com/user-attachments/assets/9e1cffff-404e-4fb2-a647-dba44b158323)
 
 <hr>
-
-[![Watch the Working]("C:\Users\ASUS\Videos\Screen%20Recordings\Screen%20Recording%202024-10-22%20020941.mp4")
-
-
-
-
