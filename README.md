@@ -1,6 +1,6 @@
 <hr>
 
-#STOPWATCH
+# STOPWATCH
 This project offers a user-friendly interface with functionalities to start, pause, and reset the timer. It is well-suited for timing tasks such as workouts, study sessions, or cooking, demonstrating a clean design and efficient front-end development practices.
 
 Features
