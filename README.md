@@ -1,6 +1,6 @@
 <hr>
 
-# STOPWATCH  <img src="https://github.com/user-attachments/assets/d9848b85-0742-41e6-a68c-b9267c75ab44" alt="stp" style="width:300px; height:200px;">
+# STOPWATCH  <img src="https://github.com/user-attachments/assets/d9848b85-0742-41e6-a68c-b9267c75ab44" alt="stp" style="width:100px; height:50px;">
 
 
 This project offers a user-friendly interface with functionalities to start, pause, and reset the timer. It is well-suited for timing tasks such as workouts, study sessions, or cooking, demonstrating a clean design and efficient front-end development practices.
